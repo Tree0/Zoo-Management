@@ -1,0 +1,8 @@
+com\zoorb\controllers\LoginController.class
+com\zoorb\zoomanagement\ZoomanagementApplication.class
+com\zoorb\zoomanagement\ProjectSecurityConfig.class
+com\zoorb\services\AnimalService.class
+com\zoorb\repository\AnimalRepository.class
+com\zoorb\zoomanagement\GlobalExceptionHandler.class
+com\zoorb\controllers\AnimalController.class
+com\zoorb\model\Animal.class
